@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-06-10T01:35:36.560Z",
+  "overallConfidence": 0.39,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "title",
+      "confidence": 0.75,
+      "matched": false,
+      "primary": "Madcap Coffee – Madcap Coffee Company",
+      "secondary": "Madcap Coffee &ndash; Madcap Coffee Company",
+      "note": "title: partial agreement (0.75) — review"
+    },
+    {
+      "field": "navLinks",
+      "confidence": 0.2,
+      "matched": false,
+      "primary": [
+        "ABOUT US",
+        "SHOP",
+        "VISIT",
+        "CLASSES & TOURS",
+        "JOURNAL",
+        "WHOLESALE",
+        "LOGIN",
+        "Register Now",
+        "Cart"
+      ],
+      "secondary": [
+        "LOGIN",
+        "Register Now",
+        "0"
+      ],
+      "note": "navLinks: weak agreement (0.20) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Juliana Guevara Java — A single-origin coffee offering a unique and crafted flavor experience.",
+        "Gitwe — A distinctive single-origin coffee with a rich and complex flavor profile.",
+        "Irvin Izaguirre — Experience the unique and vibrant notes of this special single-origin selection.",
+        "Day Dream — A balanced and approachable coffee blend perfect for daily enjoyment.",
+        "Nelson Moreno — A vibrant and memorable single-origin coffee offering a distinct taste.",
+        "Bolt — Our signature coffee blend, known for its dynamic and bold character.",
+        "Blends Subscription — Receive recurring deliveries of your favorite Madcap blends, ensuring you never run out.",
+        "Eureka — A bright and invigorating coffee blend designed to kickstart your day.",
+        "MiiR New Standard Carafe — A high-quality carafe designed for optimal heat retention and elegant coffee serving.",
+        "Kalita Wave Drippers (155 & 185 Glass) — Manual pour-over coffee drippers that achieve perfectly even extraction for a clean, flavorful cup.",
+        "Aeropress Coffee Maker — A versatile and portable coffee maker for brewing espresso-style coffee, Americano, or cold brew.",
+        "Breville Espresso Machines — A range of home espresso machines, from entry-level to advanced, enabling cafe-quality espresso at home.",
+        "Madcap Branded Apparel — Show your support for Madcap Coffee with comfortable and stylish branded clothing and accessories.",
+        "E Gift Cards — Digital gift cards, the perfect present for any coffee lover, redeemable online or in-store.",
+        "Classes & Tours — Educational experiences designed to deepen your coffee knowledge with expert-led classes and roastery tours.",
+        "Wholesale Program — A partnership opportunity for businesses to supply their cafe, restaurant, or market with Madcap's specialty coffee.",
+        "Cafe Locations — Physical coffee shops in Grand Rapids and Detroit where customers can experience Madcap coffee in person."
+      ],
+      "secondary": [
+        "ORDER DETAILS",
+        "COFFEES ON THE MENU",
+        "BREWING GEAR",
+        "APPAREL",
+        "STAY CONNECTED — FOR THOUGHTFUL UPDATES, NEW RELEASES, AND A CLOSER LOOK AT WHAT WE'RE BUILDING."
+      ],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "prices",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "$14.00",
+        "$194.00",
+        "$14.50",
+        "$204.00",
+        "$197.00",
+        "$13.00",
+        "$150.00",
+        "$186.00",
+        "$11.00",
+        "$120.00",
+        "$19.00",
+        "$110.00",
+        "$79.00",
+        "$32.00",
+        "$39.95",
+        "$499.95",
+        "$1,499.95",
+        "$699.95",
+        "$999.95",
+        "$50.00",
+        "$42.50",
+        "$35.00",
+        "$29.75",
+        "$25.00",
+        "$21.25",
+        "$20.00",
+        "$17.00",
+        "$75.00",
+        "$63.75",
+        "$0.00"
+      ],
+      "secondary": [
+        "€12,95",
+        "€170,95",
+        "€179,95",
+        "€173,95",
+        "€11,95",
+        "€131,95",
+        "€163,95",
+        "€9,95",
+        "€105,95",
+        "€16,95",
+        "€96,95",
+        "€69,95",
+        "€28,95",
+        "€35,95",
+        "€439,95",
+        "€1.319,95",
+        "€615,95",
+        "€879,95",
+        "€37,95",
+        "€26,95",
+        "€18,95",
+        "€14,95",
+        "€56,95",
+        "€0,00",
+        "€19,95",
+        "€123,95",
+        "€132,95",
+        "€136,95",
+        "€13,95"
+      ],
+      "note": "prices: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [
+    {
+      "field": "description",
+      "confidence": 1,
+      "matched": true,
+      "primary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wholesale program.",
+      "secondary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wholesale program.",
+      "note": "description: exact agreement"
+    }
+  ],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
