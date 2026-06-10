@@ -1,0 +1,22 @@
+[
+  {
+    "sectionKey": "Coffees On The Menu",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "Brewing Gear",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "Apparel",
+    "archetype": "minimal-grid",
+    "rationale": "features → minimal-grid"
+  },
+  {
+    "sectionKey": "Stay Connected",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
